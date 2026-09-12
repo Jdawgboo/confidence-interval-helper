@@ -1,2 +1,8 @@
 # confidence-interval-helper
-Calculate transparent normal-approximation confidence intervals for metrics.
+
+Calculate a normal-approximation confidence interval for a proportion.
+
+```bash
+python -m unittest -v
+```
+MIT licensed; validate assumptions before use.
